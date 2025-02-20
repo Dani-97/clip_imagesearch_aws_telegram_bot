@@ -1,13 +1,3 @@
----
-title: AWS Application
-emoji: 🦀
-colorFrom: red
-colorTo: pink
-sdk: static
-pinned: false
-short_description: CLIP Image Search using the AWS Cloud and a Telegram Bot
----
-
 # AWS Application: implementation of a Telegram Bot that performs an image search in a HuggingFace Space.
 
 The architecture that must be implemented can be seen in the Figure below.
